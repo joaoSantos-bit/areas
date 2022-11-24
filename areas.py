@@ -16,5 +16,5 @@ class areas:
     def calculateRectangleArea(base, height):
         return base * height
 
-    def calculateDiamondArea(d1, d1):
+    def calculateDiamondArea(d1, d2):
         return (d1 * d2) / 2
