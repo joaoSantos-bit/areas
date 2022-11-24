@@ -2,7 +2,7 @@
 # importing libraries
 import math
 
-class areas:
+class Areas:
     
     def calculateCircleArea(radius):
         return math.pow(radius, 2) * math.pi
