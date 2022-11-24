@@ -23,4 +23,4 @@ class TestAreas(unittest.TestCase):
 
     def testRectangleArea(self):
         self.assertAlmostEqual(300.0, Areas.calculateRectangleArea(10, 30), 1)
-        self.assertAlmostEqual(16.0, Areas.calculateRectangleArea(576, 72), 1)
+        self.assertAlmostEqual(41472.0, Areas.calculateRectangleArea(576, 72), 1)
