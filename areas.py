@@ -1,5 +1,5 @@
 
-# importing libraries
+# importing needed libraries
 import math
 
 class Areas:
