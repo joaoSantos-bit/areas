@@ -1,5 +1,5 @@
 
-# importing needed libraries
+# importing libraries
 import math
 
 class areas:
